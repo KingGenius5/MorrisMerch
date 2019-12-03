@@ -1,1 +1,1 @@
-[Click here](proposal.md)
+[My Proposal](proposal.md)
